@@ -1,1 +1,1 @@
-Personal Web App made using React + Vite.
+A personal web application developed using Vite + React, Spring Boot, and mySQL.
