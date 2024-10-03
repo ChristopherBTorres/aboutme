@@ -1,2 +1,1 @@
-# aboutme
-Personal Web App made using React
+Personal Web App made using React + Vite.
