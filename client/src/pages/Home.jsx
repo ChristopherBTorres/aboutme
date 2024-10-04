@@ -2,7 +2,7 @@ export default function Home() {
     return (
         <div>
             <h1>About Me</h1>
-            <p>
+            <div id="left">
             <strong>OBJECTIVE</strong><br/>
             Seeking a hands-on position in Computer Science or related field; motived to contribute to a team’s success.<br/>
             <br/>
@@ -23,7 +23,7 @@ export default function Home() {
                 </ul>
             </ul>
             
-            </p>
+            </div>
         </div>
         
     )
